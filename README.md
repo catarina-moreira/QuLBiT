@@ -16,25 +16,21 @@ This framework is currently structured terms of modules in a clear, well-defined
 * **Quantum-Like Influence Diagrams Module**
 	*  Catarina Moreira and Andreas Wichert (2018), <a href="http://cmoreira.eu/pdfs/conferences/QI_2018.pdf">**Introducing Quantum-Like Influence Diagrams for Violations of the Sure Thing Principle**</a>, *In Proceedings of the 11th International Conference on Quantum Interactions*.
 
-<p class="aligncenter">
- <img src="img/influence_diagr_tversky.png" width="50%"  />
- </p>
+ <img src="img/influence_diagr_tversky.png" width="100%"  />
 	
 
 * **Quantum Interference Effects Module**
 
    **Law of Balance:**
-	* Andreas Wichert and Catarina Moreira, **Balanced Quantum-Like Model for Decision Making**, Quantum Interactions 
+	* Andreas Wichert and Catarina Moreira (2018), <a href="http://cmoreira.eu/pdfs/conferences/short16.pdf">**Balanced Quantum-Like Model for Decision Making**</a>, *In Proceedings of the 11th International Conference on Quantum Interactions* 
+	
+	<img src="img/law_balance.png" width="100%"  />
 	
 	**Similarity Heuristic:**
 	
 	* Catarina Moreira and Andreas Wichert (2016), <a href="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00011/abstract">**Quantum-Like Bayesian Networks for Modeling Decision Making**</a>, *Frontiers in Psychology: Cognition*, 7.
 
-* **Applications**
+   <img src="img/similarity_heuristic.png" width="100%"  />
+   
 
 
-	<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
