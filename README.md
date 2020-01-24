@@ -1,10 +1,10 @@
 # QuLBIT - Quantum-Like Bayesian Inference Technologies
 
-QuLBIT is the foundation of a new type of decision support system that deals with uncertainty using the formalisms of quantum mechanics. The main advantage of this framework is that it can capture human paradoxical and irrational decisions during the inference process, which can be hvery useful not only for cognitive systems, but also for decision-making systems that deal woth human data. The quantum-like approach also enables the expression of a confidence of a prediction using quantum interference effects.
+QuLBIT is the foundation of a new type of decision support system that deals with uncertainty using the formalisms of quantum mechanics. The main advantage of this framework is that it can capture human paradoxical and irrational decisions during the inference process, which can be very useful not only for cognitive systems, but also for decision-making systems that deal with human data. The quantum-like approach also enables the expression of a prediction using quantum interference effects.
 
 <img src="img/logo.png" />
 
-This framework is currently structured terms of modules in a clear, well-defined, and extendible architecture. All these modules correspond to models that have been published in different journals. We kindly ask to cite the papers connected to each module that you find useful for your research:
+This framework is currently structured in terms of modules in a clear, well-defined, and extendible architecture. All these modules correspond to models that have been published in different journals. We kindly ask to cite the papers connected to each module that you find useful for your research:
 
 * **Quantum-Like Bayesian Networks Module**
 	
