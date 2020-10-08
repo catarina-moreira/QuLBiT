@@ -1,0 +1,41 @@
+net
+{
+	propagationenginegenerator1791944048146838126L = "edu.ucla.belief.approx.BeliefPropagationSettings@131b956";
+	recoveryenginegenerator6944530267470113528l = "edu.ucla.util.SettingsImpl@3b74c893";
+	node_size = (130.0 55.0);
+	huginenginegenerator3061656038650325130L = "edu.ucla.belief.inference.JoinTreeSettings@61cb18c7";
+}
+
+node P2
+{
+	states = ("defect" "cooperate" );
+	position = (511 -174);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable29";
+	label = "P2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node P1
+{
+	states = ("defect" "cooperate" );
+	position = (283 -175);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable28";
+	label = "P1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( P2 | P1 )
+{
+	data = ((	0.97	0.03	)
+		(	0.93	0.07	));
+}
+potential ( P1 | )
+{
+	data = (	0.5	0.5	);
+}
